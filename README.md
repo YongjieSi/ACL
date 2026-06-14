@@ -26,7 +26,7 @@ https://www.modelscope.cn/datasets/pp199124903/NSynth-100/summary
 
 - run 
     ```bash
-    python main.py --config=.configs/n2l.yml
+    python train.py --config=.configs/l2n.yml
     ```
 
 
